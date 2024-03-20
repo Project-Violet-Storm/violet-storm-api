@@ -1,0 +1,6 @@
+@Violet.Storm.Api_HostAddress = http://localhost:5023
+
+GET {{Violet.Storm.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

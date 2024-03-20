@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Storm.Api", "Violet.Storm.Api\Violet.Storm.Api.csproj", "{AFB55F8D-A1D4-47C1-B822-DDD9E5247004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Storm.Domain", "Violet.Storm.Domain\Violet.Storm.Domain.csproj", "{CA372573-C681-432A-B38E-6A42C43DC104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB55F8D-A1D4-47C1-B822-DDD9E5247004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB55F8D-A1D4-47C1-B822-DDD9E5247004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB55F8D-A1D4-47C1-B822-DDD9E5247004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB55F8D-A1D4-47C1-B822-DDD9E5247004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA372573-C681-432A-B38E-6A42C43DC104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA372573-C681-432A-B38E-6A42C43DC104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA372573-C681-432A-B38E-6A42C43DC104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA372573-C681-432A-B38E-6A42C43DC104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
