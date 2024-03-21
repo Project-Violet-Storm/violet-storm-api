@@ -9,3 +9,5 @@ C:\Users\mluke\VSCode\Lab4\violet-storm-api\Violet.Storm.Domain\obj\Debug\net8.0
 C:\Users\mluke\VSCode\Lab4\violet-storm-api\Violet.Storm.Domain\obj\Debug\net8.0\refint\Violet.Storm.Domain.dll
 C:\Users\mluke\VSCode\Lab4\violet-storm-api\Violet.Storm.Domain\obj\Debug\net8.0\Violet.Storm.Domain.pdb
 C:\Users\mluke\VSCode\Lab4\violet-storm-api\Violet.Storm.Domain\obj\Debug\net8.0\ref\Violet.Storm.Domain.dll
+C:\Users\mluke\VSCode\Lab4\violet-storm-api\Violet.Storm.Domain\obj\Debug\net8.0\Violet.Storm.Domain.csproj.AssemblyReference.cache
+C:\Users\mluke\VSCode\Lab4\violet-storm-api\Violet.Storm.Domain\obj\Debug\net8.0\Violet.Storm.Domain.sourcelink.json
