@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Violet.Storm.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e88d99592e7c3a38a3670254fb77e467703c72c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d9a34aa1ac1e274eea7fddbdfe2a0eb8eaa7c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Violet.Storm.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Violet.Storm.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
