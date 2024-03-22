@@ -8744,11 +8744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Api/Violet.Storm.Api.csproj",
+      "projectUniqueName": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj",
       "projectName": "Violet.Storm.Api",
-      "projectPath": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Api/Violet.Storm.Api.csproj",
+      "projectPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj",
       "packagesPath": "/Users/cooperlillquist/.nuget/packages/",
-      "outputPath": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Api/obj/",
+      "outputPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cooperlillquist/.nuget/NuGet/NuGet.Config"
@@ -8763,8 +8763,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/Violet.Storm.Domain.csproj": {
-              "projectPath": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/Violet.Storm.Domain.csproj"
+            "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj": {
+              "projectPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj"
             }
           }
         }

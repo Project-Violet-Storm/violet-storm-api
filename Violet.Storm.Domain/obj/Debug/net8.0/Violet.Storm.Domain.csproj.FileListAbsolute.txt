@@ -24,3 +24,16 @@ C:/Users/mluke/VSCode/Lab4/violet-storm-api/Violet.Storm.Domain/obj/Debug/net8.0
 /Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/obj/Debug/net8.0/refint/Violet.Storm.Domain.dll
 /Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.pdb
 /Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/obj/Debug/net8.0/ref/Violet.Storm.Domain.dll
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/bin/Debug/net8.0/Violet.Storm.Domain.deps.json
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/bin/Debug/net8.0/Violet.Storm.Domain.dll
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/bin/Debug/net8.0/Violet.Storm.Domain.pdb
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.csproj.AssemblyReference.cache
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.AssemblyInfoInputs.cache
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.AssemblyInfo.cs
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.csproj.CoreCompileInputs.cache
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.sourcelink.json
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.dll
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/refint/Violet.Storm.Domain.dll
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/Violet.Storm.Domain.pdb
+/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/Debug/net8.0/ref/Violet.Storm.Domain.dll
