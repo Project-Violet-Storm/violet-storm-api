@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjp0FRH+8qnaIEb9UVbqA4L86/tIHHQDx5pB6ZN+QeOmY6qFdYU9rSardEAolWvqIa1ur/amVhrablmgfHRanA==",
+  "dgSpecHash": "q0QznSO6+Nq3PQ61R2aHi6+WFArdDKn6PSGOrSGGM7019Llp4XgzWxsUkgHLsXaIMFmiZT4iCOtKw2ulgoWU/w==",
   "success": true,
-  "projectFilePath": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Api/Violet.Storm.Api.csproj",
+  "projectFilePath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj",
   "expectedPackageFiles": [
     "/Users/cooperlillquist/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/Users/cooperlillquist/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
