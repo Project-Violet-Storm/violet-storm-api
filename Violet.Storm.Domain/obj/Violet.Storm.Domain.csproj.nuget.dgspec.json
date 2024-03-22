@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj": {}
+    "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/Violet.Storm.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj": {
+    "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/Violet.Storm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj",
+        "projectUniqueName": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/Violet.Storm.Domain.csproj",
         "projectName": "Violet.Storm.Domain",
-        "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj",
-        "packagesPath": "C:\\Users\\mluke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api\\Violet.Storm.Domain\\obj\\",
+        "projectPath": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/Violet.Storm.Domain.csproj",
+        "packagesPath": "/Users/cooperlillquist/.nuget/packages/",
+        "outputPath": "/Users/cooperlillquist/repos/violet-storm-api/Violet.Storm.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mluke\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/cooperlillquist/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,36 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.aspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
