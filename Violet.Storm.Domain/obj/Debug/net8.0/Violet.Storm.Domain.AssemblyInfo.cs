@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Violet.Storm.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e21ea64d6fcdc159337d23417836d2dc0c024b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d504fda62fe6ceb566fcefc6118765c1804b9bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Violet.Storm.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Violet.Storm.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
