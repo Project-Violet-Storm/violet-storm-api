@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/Violet.Storm.Api.props" />
+  <Import Project="..\build\Violet.Storm.Api.props" />
 </Project>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj": {}
+    "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Api\\Violet.Storm.Api.csproj": {}
   },
   "projects": {
-    "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj": {
+    "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Api\\Violet.Storm.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj",
+        "projectUniqueName": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Api\\Violet.Storm.Api.csproj",
         "projectName": "Violet.Storm.Api",
-        "projectPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/Violet.Storm.Api.csproj",
-        "packagesPath": "/Users/cooperlillquist/.nuget/packages/",
-        "outputPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Api/obj/",
+        "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Api\\Violet.Storm.Api.csproj",
+        "packagesPath": "C:\\Users\\mluke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cooperlillquist/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mluke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj": {
-                "projectPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj"
+              "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Data\\Violet.Storm.Data.csproj": {
+                "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Data\\Violet.Storm.Data.csproj"
+              },
+              "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj": {
+                "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj"
               }
             }
           }
@@ -36,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -52,6 +50,10 @@
               "version": "[8.0.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -79,21 +81,84 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj": {
+    "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Data\\Violet.Storm.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj",
-        "projectName": "Violet.Storm.Domain",
-        "projectPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/Violet.Storm.Domain.csproj",
-        "packagesPath": "/Users/cooperlillquist/.nuget/packages/",
-        "outputPath": "/Users/cooperlillquist/repos/violet-storm-api-1/Violet.Storm.Domain/obj/",
+        "projectUniqueName": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Data\\Violet.Storm.Data.csproj",
+        "projectName": "Violet.Storm.Data",
+        "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Data\\Violet.Storm.Data.csproj",
+        "packagesPath": "C:\\Users\\mluke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cooperlillquist/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mluke\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj": {
+                "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj",
+        "projectName": "Violet.Storm.Domain",
+        "projectPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\Violet.Storm.Domain.csproj",
+        "packagesPath": "C:\\Users\\mluke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mluke\\VSCode\\Lab4\\violet-storm-api-1\\Violet.Storm.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mluke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -111,11 +176,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -143,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

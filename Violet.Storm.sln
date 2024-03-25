@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Storm.Api", "Violet.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Storm.Domain", "Violet.Storm.Domain\Violet.Storm.Domain.csproj", "{CA372573-C681-432A-B38E-6A42C43DC104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Storm.Data", "Violet.Storm.Data\Violet.Storm.Data.csproj", "{FABB6E5F-C0AE-4EB6-BF29-535FA2F1959F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{CA372573-C681-432A-B38E-6A42C43DC104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA372573-C681-432A-B38E-6A42C43DC104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA372573-C681-432A-B38E-6A42C43DC104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABB6E5F-C0AE-4EB6-BF29-535FA2F1959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB6E5F-C0AE-4EB6-BF29-535FA2F1959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB6E5F-C0AE-4EB6-BF29-535FA2F1959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB6E5F-C0AE-4EB6-BF29-535FA2F1959F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
